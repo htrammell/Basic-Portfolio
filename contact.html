@@ -10,19 +10,45 @@
 </head>
 <body>
     <header>
-        <nav>
-            <a href="index.html">About</a>
-            <a href="portfolio.html">Portfolio</a>
-            <a href="contact.html">Contact</a>
-        </nav>
-        <h1>
-            Hunter Trammell
-        </h1>   
-    </header> 
+        <div class="wrapper2"> 
+            <div class="textBox">
+                <h1 class="siteTag">
+                    Hunter Trammell
+                </h1>
+            </div>  
+            <nav>
+                <ul>       
+                    <li><a href="index.html" class="about">About</a></li>
+                    <li><a href="portfolio.html" class="portfolio">Portfolio</a></li>
+                    <li><a href="contact.html" class="contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>   
+    </header>
+    <div class="wrapper">
+        <section> 
+            <h2>
+                Contact
+            </h2>
+            <div class="grayBar">
+            </div>
+            <div class="form">
+                <form>
+                    <label for="name">Name:</label>
+                    <input type="text" name="name" placeholder="John Smith">
+                    <label for="email">Email:</label>
+                    <input type="text" name="email" placeholder="example@gmail.com">
+                    <label for="message">Message:</label>
+                    <input type="text" name="message" class="message">
+                    <input type="submit" value="Submit" class="submit">
+                </form>
+            </div>
+        </section>
+    </div>
     <footer>
-        <h2>
+        <h3>
             Copyright &copy;
-        </h2>
-    </footer>  
+        </h3>
+    </footer> 
 </body>
 </html>
