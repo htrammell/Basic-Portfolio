@@ -1,0 +1,132 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', sans-serif;
+}
+
+section {
+    background-color: #ffffff;
+    text-align: left;
+    border: 2px solid #dddddd;
+    padding: 30px;
+    line-height: 25px;
+    margin: 15px 15px 15px 15px;
+    max-width: 960px;
+}
+
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: white;
+    font-size: 30px;
+}
+
+header {
+    background-color: #ffffff;
+    border-bottom: 2px solid #cccccc;
+    height: 75px;
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #777777;
+}
+
+image {
+    float: left;
+    padding-right: 20px;
+    padding-top: 25px;
+}
+
+p {
+    margin-bottom: 20px;
+    color: #777777;
+    font-weight: 50;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    padding-bottom: 25px;
+}
+
+article {
+    padding-top: 19px;
+}
+
+footer {
+    background-color: #666666;
+    border-top: 6px solid #4aaaa5;
+    height: 75px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    left: 0;
+    bottom: 0;
+    position: fixed;
+}
+
+.container {
+    float: left;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 25px;
+    clear: both;
+    overflow: auto;
+}
+
+.textBox {
+    background: #4aaaa5;
+    text-align: center;
+    float: left;
+    height: 75px;
+    width: 265px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.grayBar {
+    border: 2px solid #dddddd;
+}
+
+.wrapper {
+    max-width: 960px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.wrapper2 {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.contact {
+    float: right;
+    padding: 15px;
+    margin-top: 10px;
+    border: 5px;
+    border-right: 1px solid #dddddd;
+}
+
+.portfolio {
+    float: right;
+    padding: 15px;
+    margin-top: 10px;
+    border: 5px;
+    border-right: 1px solid #dddddd;
+}
+
+.about {
+    float: right;
+    padding: 15px;
+    margin-top: 10px;
+    border: 5px;
+    clear: right;
+}
+
+.siteTag {
+    float: left;
+    padding: 15px;
+    margin-top: 10px;
+    border: 15px;
+    clear: both;
+    overflow: auto;
+}
