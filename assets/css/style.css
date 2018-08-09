@@ -155,3 +155,118 @@ input {
     clear: both;
     overflow: auto;
 }
+
+.box {
+    margin-bottom: -515px;
+}
+
+.boxtext1 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 200px;
+    bottom: 45px;
+    text-align: center;
+}
+
+.boxtext2 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 200px;
+    bottom: 45px;
+    text-align: center;
+}
+
+.boxtext3 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 200px;
+    bottom: 45px;
+    text-align: center;
+}
+
+.boxtext4 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 200px;
+    bottom: 45px;
+    text-align: center;
+}
+
+.boxtext5 {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 200px;
+    bottom: 45px;
+    text-align: center;
+}
+
+#box1 {
+    position: relative;
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+}
+
+#box2 {
+    position: relative;
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    top: -217px;
+    right: -280px;
+}
+
+#box3 {
+    position: relative;
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    top: -240px;
+}
+
+#box4 {
+    position: relative;
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    right: -280px;
+    top: -457px;
+}
+
+#box5 {
+    position: relative;
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    top: -480px;
+}
