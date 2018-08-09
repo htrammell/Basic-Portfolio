@@ -23,7 +23,7 @@ header {
     background-color: #ffffff;
     border-bottom: 2px solid #cccccc;
     height: 75px;
-    width: 100%;
+    width: 100%; 
 }
 
 a {
@@ -64,6 +64,10 @@ footer {
     left: 0;
     bottom: 0;
     position: fixed;
+}
+
+h3 {
+    padding-top: 55px;
 }
 
 input {
@@ -158,6 +162,7 @@ input {
 
 .box {
     margin-bottom: -515px;
+    overflow: hidden;
 }
 
 .boxtext1 {
