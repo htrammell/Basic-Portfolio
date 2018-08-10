@@ -32,9 +32,13 @@ a {
     color: #777777;
 }
 
-li {
+ul {
     float: right;
     padding-top: 30px;
+}
+
+li {
+    display: inline-block;
 }
 
 image {
@@ -139,7 +143,6 @@ input {
     padding: 15px;
     margin-top: 10px;
     border: 5px;
-    border-right: 1px solid #dddddd;
 }
 
 .portfolio {
@@ -154,6 +157,7 @@ input {
     margin-top: 10px;
     border: 5px;
     clear: right;
+    border-right: 1px solid #dddddd;
 }
 
 .siteTag {
